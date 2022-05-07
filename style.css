@@ -18,6 +18,7 @@ nav ul{
 nav li{
     display: inline;
     float: center;
+    padding-bottom: .5rem;
     
 }
 
@@ -35,8 +36,8 @@ nav li:hover{
    
 }
 nav li a:hover{
-    color: yellow;
-    border-bottom: yellowgreen solid 1px;
+    color:  #FFFF00;
+    border-bottom: yellowgreen solid 1.5px;
 }
 .logo{
     color:#ffffff;
